@@ -61,37 +61,6 @@ Prerequisites
 Node.js (v14 or higher)
 npm
 
-Installation
-
-Clone the repository
-
-bashCopygit clone https://github.com/Mahekpandey/ai.canvas_calcy.git
-cd ai-drawing-calculator
-
-Install Frontend Dependencies
-
-bashCopycd frontend
-npm install
-
-Install Backend Dependencies
-
-bashCopycd ../backend
-npm install
-
-Set up environment variables
-
-bashCopy# Create .env file in backend directory
-GEMINI_API_KEY=your_gemini_api_key
-
-Start the application
-
-bashCopy# Start backend server
-cd backend
-npm start
-
-# Start frontend development server (in a new terminal)
-cd frontend
-npm run dev
 🎯 Usage
 
 Open the application in your browser
