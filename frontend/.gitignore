@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+
+# Other common files to ignore
+node_modules/
+*.log
+*.DS_Store
+__pycache__/
