@@ -85,8 +85,8 @@ PORT=3000
 5. Click "Calculate" to receive AI-generated answers
 6. Use the reset button to clear the canvas for new questions
 
-![Main Interface](./src/assets/image.png)
-![Main Interface](./src/assets/home.png)
+![Main Interface](./image.png)
+![Main Interface](./window.png)
 
 ## 🤝 Collaborative Features
 
